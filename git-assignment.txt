@@ -1,0 +1,15 @@
+1.
+First forked it
+git clone git@github.com:RajatWisdm/first-contributions.git
+cd first-contributions
+changes Contributors.md
+git add .
+git commit -m "added name"
+git push -u origin your-branch-name
+2.
+Forked
+git clone git@github.com:RajatWisdm/RajatGanguly-RajatWisdm-assignment-.git
+cd Engineering-Best-Practices/
+ git branch test250123
+ git switch test250123
+touch echo "Hello World" > new.txt
